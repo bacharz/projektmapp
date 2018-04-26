@@ -1,0 +1,37 @@
+/* body {
+    background: #ECEEEF;
+    text-align: center;
+    margin: 100px auto;
+    width: 80%;
+    padding: 0 40px;
+    font: 14px normal 'Varela Round', Helvetica, serif;
+} */
+
+
+
+ 
+ .form {
+   padding: 15% 35%;
+   margin: 40px 5px;
+   margin-top: -20px;
+   
+ }
+
+
+.jumbotron {
+	 background: url("pexels-photo-206569 (5).jpeg");
+	 background-repeat: no-repeat;
+    background-size: cover; 
+ }
+
+   
+
+body {
+  position: relative;
+  
+}
+
+
+
+
+    
